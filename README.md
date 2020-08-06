@@ -1,3 +1,3 @@
 ## Notes
 
-Made using React Native
+A note taking application made on React Native and Docker.
